@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Adjie Patrian Khalis (213510709) Kelas A
+
+# adjieprakPBK
